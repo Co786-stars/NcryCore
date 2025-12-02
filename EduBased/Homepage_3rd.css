@@ -1,0 +1,81 @@
+/* div that contain the links of nav  */
+#container1st {
+	padding: 0%;
+	margin:0%;
+	background-image: linear-gradient(hsla(50, 50%, 50%, 0.5), hsla(50, 50%, 90%, 1.0));
+	overflow-x: auto;
+	position: sticky;
+	top: 0;
+	display: flex;
+	border-top: 2px solid white;
+	border-bottom: 2px solid white;
+}
+
+
+
+/*styling undefine list that contain list item links*/
+#container2nd {
+	list-style-type: none;
+	padding: 0%;
+	margin: 0%;
+	position: sticky;
+	top: 0%;
+	white-space: nowrap;
+	font-weight: bold;
+	font-size: 15px;
+
+}
+
+
+/*list container that contain content link*/
+#lnkcontainer {
+	display: inline-block;
+	padding: 4px;
+	background-image: linear-gradient(hsla(50, 50%, 50%, 0.5), hsla(50, 50%, 90%, 1.0));
+}
+
+
+
+/*styling links of content*/
+#contentlnk {
+
+	text-decoration: none;
+	text-align: center;
+	display: block;
+	color: rgba(0, 0, 0, 1.0);
+	padding: 0px 25px;
+	
+}
+
+
+/*hover property of links content*/
+#lnkcontainer:hover {
+	background:burlywood;
+}
+
+
+
+/*----Scrollbar---------*//*----Scrollbar---------*/
+#container1st::-webkit-scrollbar {
+	height: 0%;
+	width: 0%;
+}
+
+
+/*styling the path where scrollbar thumb is run on x-axis*/
+#container1st::-webkit-scrollbar-track {
+	background-color: transparent; 
+}
+
+
+/*styling the scrollbar button thumb /mid scroll button*/
+#container1st::-webkit-scrollbar-thumb {
+	background:transparent;
+	border-radius: 100px;
+	border:2px solid red ;
+}
+
+#corntainer1st::-webkit-scrollbar-corner {
+/*	*/
+}
+

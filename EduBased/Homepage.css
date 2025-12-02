@@ -1,0 +1,206 @@
+/*body of the website*/
+#body {
+/*	background: rgba(0, 0, 0, 1.0);*/
+	padding-left: 0px;
+	padding-right: 0px;
+/*	border-top:1px solid white;*/
+}
+
+
+/* navbar that show background header color*/
+#hnav {
+	background-image: radial-gradient(rgba(0, 50, 50, 1), 
+		rgba(0, 0, 50, 1.0));
+	margin: 0%;
+	padding-bottom: 0%;
+}
+
+
+
+/* unlist contain links of header */
+#nvcon1 {
+		padding: 0%;
+		margin: 0%;	
+		width: 100%;
+}
+
+
+
+/* list tag contain that links  */
+#ritm {
+
+	float: left;
+	list-style-type: none;
+	padding: 3px 7px 0px 0px;
+	display: block;
+	background: rgba(0, 0, 0, 0.2);
+	background-color:transparent ;
+
+}
+
+
+/* anchor tag of header */
+#rlnk {
+	text-decoration: none;
+	padding: 0px 10px;
+	font-family: sans-serif;
+	font-weight: bold;
+	color: #0fAf3f;
+	border-radius: 10px;
+	width: 200px;
+	font-size: 18px;
+
+}
+
+
+/*Hover of anchor */
+#rlnk:hover {
+	outline: 2px solid black;
+
+}
+
+
+
+/*container of input div contain text*/
+#container {
+	float: left; 
+	background: rgb(255, 255, 255);
+	border-radius:5px;
+	margin-left: 15px;
+	margin-right: 40px;
+	transform: translateY(1px);
+
+}
+
+
+
+/*Hover status of container */
+#container:hover{
+	outline: 1px solid blueviolet;
+}
+
+
+
+/*input text serch engine*/
+input[type="search"] {
+	padding-left: 10px;
+	border:1px double white;
+	border-right:2px double white;
+	background-color: rgba(0, 0, 0, 0.2);
+	color: darkblue;
+	font-family: cursive;
+	font-weight: bold;
+	transform: translateY(0.4px);
+	outline: none;
+	border-radius: 5px;
+
+}
+
+
+/*input hover status*/
+input[type="search"]:hover {
+	outline: 2px solid white ; /* before mension bluevoleit*/	
+}
+
+
+/*serch bar icon in container*/
+#icon {
+	  height: 25px;
+	  width: 25px;
+	  margin: 0px;
+	  transform: translate(-3px, -1px);
+	  border-radius: 100%;
+
+}
+
+
+/*left item img icon regrestration from*/
+#litm{
+	list-style-type: none;
+	float: right;
+	text-decoration: none;
+	display: block;
+	width: 40px;
+	height: 40px;
+	border-color: white;
+	border-width: 2px;
+	border-radius: 100%;
+	border-style: ridge;
+	padding: 2px;
+	transform: translate( -4px, -3px);
+
+}
+
+
+/*active status of img icon*/
+#litm:active {
+	border-color: white;
+	border-radius: 100%;
+	border-style: solid;
+	border-width: 3px;
+	padding: 4px;
+
+}
+
+
+/*Premimum features of site */
+#premium {
+	float: left;
+	padding-right: 20px;
+	list-style-type: none;
+	font-size: 20px;
+	text-decoration: none;
+	font-weight: bold;
+
+}
+
+
+
+
+
+/*_______________________________________________________________________________________*/
+
+/*#nvcon1:hover, #ritm:hover, #litm:hover {*/
+
+
+/*}*/
+
+
+/*#body {
+	background: black;
+}
+
+
+#nevlink {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	width: 60px;
+	padding: 5px;
+	height: 100%;
+
+}
+
+#link {
+	display: block;
+	background-color: rgba(0, 0, 0, 0.1);
+	text-decoration: none;
+	color: darkmagenta;
+	padding: 6px 2px;
+	width: 200px;
+	text-align: center;
+	border-radius: 10px;
+	
+			
+}
+
+a {
+	background-image: radial-gradient(rgba(0, 255, 0, 0.1), 
+		rgba(0, 0, 155, 0.1), rgba(255, 0, 0, 0.5));
+	border:2px double blueviolet;
+	box-sizing: border-box;
+	box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+	font-family: sans-serif;
+	font-weight: bold;
+}*/
+
