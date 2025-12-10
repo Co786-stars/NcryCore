@@ -24,6 +24,18 @@
 		width: 100%;
 }
 
+/* web logo of Ncrycore website */
+#website_logo {
+	  height: 50px;
+	  width: 50px;
+	  margin: 0px;
+	  box-shadow: 1px 1px 2px whitesmoke;
+	  border-radius: 10px;
+}
+
+#website_logo:hover  {
+	padding: 4px;
+}
 
 
 /* list tag contain that links  */
@@ -117,7 +129,7 @@ input[type="search"]:hover {
 /*left item img icon regrestration from*/
 #litm{
 	list-style-type: none;
-	/* float: right; */
+	float: right;
 	text-decoration: none;
 	display: block;
 	width: 40px;
