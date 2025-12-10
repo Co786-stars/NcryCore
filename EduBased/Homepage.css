@@ -55,7 +55,7 @@
 
 /*Hover of anchor */
 #rlnk:hover {
-	outline: 2px solid black;
+	 color: rgba(255, 220, 155, 0.8);
 
 }
 
@@ -117,7 +117,7 @@ input[type="search"]:hover {
 /*left item img icon regrestration from*/
 #litm{
 	list-style-type: none;
-	float: right;
+	/* float: right; */
 	text-decoration: none;
 	display: block;
 	width: 40px;
@@ -148,12 +148,11 @@ input[type="search"]:hover {
 	float: left;
 	padding-right: 20px;
 	list-style-type: none;
-	font-size: 20px;
+	font-size: 15px;
 	text-decoration: none;
-	font-weight: bold;
+	/* font-weight: bold; */
 
 }
-
 
 
 
