@@ -34,9 +34,19 @@
 }
 
 #website_logo:hover  {
-	padding: 4px;
+	border-color: white;
+	border-radius: 100%;
+	border-style: solid;
+	border-width: 2px;
+	/* transform: rotate(360deg);
+    transition: transform 0.80s ease; */
+	padding: 2px;
+	
 }
 
+#website_logo:active {
+   padding:6px;
+}
 
 /* list tag contain that links  */
 #ritm {
@@ -127,30 +137,38 @@ input[type="search"]:hover {
 
 
 /*left item img icon regrestration from*/
-#litm{
-	list-style-type: none;
+#regfrom {
+	height: 50px;
+	width: 50px;
+	margin: 0px;
+	box-shadow: 1px 1px 2px whitesmoke;
+	border-radius: 10px;
 	float: right;
 	text-decoration: none;
 	display: block;
-	width: 40px;
-	height: 40px;
-	border-color: white;
-	border-width: 2px;
-	border-radius: 100%;
-	border-style: ridge;
 	padding: 2px;
-	transform: translate( -4px, -3px);
 
 }
 
+/*hover status of img icon*/
+#regfrom:hover {
+	border-color: white;
+	border-radius: 100%;
+	border-style: solid;
+	border-width: 2px;
+	/* transform: rotate(360deg);
+    transition: transform 0.80s ease; */
+	padding: 2px;
+
+}
 
 /*active status of img icon*/
-#litm:active {
+#regfrom:active {
 	border-color: white;
 	border-radius: 100%;
 	border-style: solid;
 	border-width: 3px;
-	padding: 4px;
+	padding: 6px;
 
 }
 
