@@ -3,12 +3,18 @@ Our company specialize in workforce development, talent empowerment, and technol
 Our programs are designed to build practical expertise and strengthen organizational performance.
 With innovation and strategic focus, NcryCore helps professionals and enterprises achieve lasting success.
 
+#NcryCore
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="styles.css">
+  <style>
+    h6 {
+     color:blue; 
+    }
+  </style>
 </head>
 <body>  
 <!-- This section clearly describes our website and highlights the services we provide -->
