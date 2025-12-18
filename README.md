@@ -1,4 +1,4 @@
-#NcryCore
+# NcryCore
 NcryCore is a next‑generatio modern company delivering professional skill training and corporate solutions.
 Company specialize in workforce development, talent empowerment, and technology‑driven business growth.
 Our programs are designed to build practical expertise and strengthen organizational performance.
@@ -10,7 +10,6 @@ With innovation and strategic focus, NcryCore helps professionals and enterprise
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="styles.css">
-  <style>
 </head>
 <body>  
 <!-- This section clearly describes our website and highlights the services we provide -->
