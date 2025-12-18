@@ -1,9 +1,9 @@
 # 💫💫💫 NcryCore 💫💫💫
-________________________________________________________________________________________________________
-NcryCore is a modern company delivering professional skill training and corporate solutions.
+
+<strong>NcryCore is a modern company delivering professional skill training and corporate solutions.
 Company specialize in workforce development, talent empowerment, and technology‑driven business growth.
 Our programs are designed to build practical expertise and strengthen organizational performance.
-With innovation and strategic focus, NcryCore helps professionals and enterprises achieve lasting success.
+With innovation and strategic focus, NcryCore helps professionals and enterprises achieve lasting success. </strong>
 ________________________________________________________________________________________________________
 
 <!DOCTYPE html>
