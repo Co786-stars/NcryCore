@@ -1,0 +1,6 @@
+NcryCore is a modern, lightweight, and developer‑friendly platform designed to simplify secure development. It focuses on speed, modularity, and 
+clean architecture, giving developers the tools they need to build powerful applications without unnecessary complexity.
+
+🔐 Security First
+Security is at the core of everything we build. From encryption-ready modules to safe coding patterns, NcryCore helps 
+developers avoid common vulnerabilities.
